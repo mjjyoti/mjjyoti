@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Dart
 - 💬 Ask me about Dart, JSON, Firebase, Provider
-- 📫 How to reach me []jyotimahajan800@gmail.com
+- 📫 How to reach me jyotimahajan800@gmail.com
 
 <!--
 **mjjyoti/mjjyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
