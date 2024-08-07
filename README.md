@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jyoti Mahajan
 
-## A passionate Flutter Developer.
+## A passionate Flutter Developer
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Dart
 - 💬 Ask me about Dart, JSON, Firebase, Provider
